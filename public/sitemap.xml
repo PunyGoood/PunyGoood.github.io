@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://punygoood.github.io/post/first/</loc><lastmod>2024-01-06T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/post/oi/1/</loc><lastmod>2024-01-06T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/post/sec/1/</loc><lastmod>2024-01-20T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/post/th/</loc><lastmod>2024-01-20T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/</loc><lastmod>2024-01-20T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/post/</loc><lastmod>2024-01-20T18:13:52+08:00</lastmod></url><url><loc>https://punygoood.github.io/categories/</loc></url><url><loc>https://punygoood.github.io/tags/</loc></url><url><loc>https://punygoood.github.io/archives/</loc></url><url><loc>https://punygoood.github.io/search/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://punygoood.github.io/post/calculus/</loc>
+    <lastmod>2024-01-06T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/post/oi/1/</loc>
+    <lastmod>2024-01-06T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/post/alpaca/</loc>
+    <lastmod>2024-01-20T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/post/difference/1/</loc>
+    <lastmod>2024-01-20T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/</loc>
+    <lastmod>2024-01-20T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/post/</loc>
+    <lastmod>2024-01-20T18:13:52+08:00</lastmod>
+  </url><url>
+    <loc>https://punygoood.github.io/categories/</loc>
+  </url><url>
+    <loc>https://punygoood.github.io/tags/</loc>
+  </url><url>
+    <loc>https://punygoood.github.io/archives/</loc>
+  </url><url>
+    <loc>https://punygoood.github.io/search/</loc>
+  </url>
+</urlset>

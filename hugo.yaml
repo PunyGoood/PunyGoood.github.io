@@ -68,6 +68,13 @@ params:
   processEscapes: true
   disableSpecial1stPost: true
 
+  assets:
+      favicon: "kiss.png"
+      favicon16x16: "kiss.png"
+      favicon32x32: "kiss.png"
+      apple_touch_icon: "kiss.png"
+      safari_pinned_tab: "kiss.png"
+
 markup:
   goldmark:
     extensions:

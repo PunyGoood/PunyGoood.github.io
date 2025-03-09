@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on MaisJet's Blog</title><link>https://punygoood.github.io/post/</link><description>Recent content in Posts on MaisJet's Blog</description><generator>Hugo -- 0.141.0</generator><language>zh</language><lastBuildDate>Sat, 20 Jan 2024 18:13:52 +0800</lastBuildDate><atom:link href="https://punygoood.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>实用积分技巧</title><link>https://punygoood.github.io/post/first/</link><pubDate>Sat, 06 Jan 2024 18:13:52 +0800</pubDate><guid>https://punygoood.github.io/post/first/</guid><description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description></item><item><title>算法板</title><link>https://punygoood.github.io/post/oi/1/</link><pubDate>Sat, 06 Jan 2024 18:13:52 +0800</pubDate><guid>https://punygoood.github.io/post/oi/1/</guid><description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description></item><item><title>微商</title><link>https://punygoood.github.io/post/sec/1/</link><pubDate>Sat, 20 Jan 2024 18:13:52 +0800</pubDate><guid>https://punygoood.github.io/post/sec/1/</guid><description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description></item><item><title>微商asd</title><link>https://punygoood.github.io/post/th/</link><pubDate>Sat, 20 Jan 2024 18:13:52 +0800</pubDate><guid>https://punygoood.github.io/post/th/</guid><description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on MaisJet&#39;s Blog</title>
+    <link>https://punygoood.github.io/post/</link>
+    <description>Recent content in Posts on MaisJet&#39;s Blog</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 20 Jan 2024 18:13:52 +0800</lastBuildDate>
+    <atom:link href="https://punygoood.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实用积分技巧</title>
+      <link>https://punygoood.github.io/post/calculus/</link>
+      <pubDate>Sat, 06 Jan 2024 18:13:52 +0800</pubDate>
+      <guid>https://punygoood.github.io/post/calculus/</guid>
+      <description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>算法板</title>
+      <link>https://punygoood.github.io/post/oi/1/</link>
+      <pubDate>Sat, 06 Jan 2024 18:13:52 +0800</pubDate>
+      <guid>https://punygoood.github.io/post/oi/1/</guid>
+      <description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>alpaca设计文档</title>
+      <link>https://punygoood.github.io/post/alpaca/</link>
+      <pubDate>Sat, 20 Jan 2024 18:13:52 +0800</pubDate>
+      <guid>https://punygoood.github.io/post/alpaca/</guid>
+      <description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>微商</title>
+      <link>https://punygoood.github.io/post/difference/1/</link>
+      <pubDate>Sat, 20 Jan 2024 18:13:52 +0800</pubDate>
+      <guid>https://punygoood.github.io/post/difference/1/</guid>
+      <description>How to use hugo with the theme &amp;ldquo;paperMod&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>
