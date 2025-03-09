@@ -1,11 +1,11 @@
 ---
 title: "实用积分技巧"
-date: 2024-01-06 18:13:52.872 +0800
-summary: 'How to use hugo with the theme "paperMod"'
+#date: 2024-01-06 18:13:52.872 +0800
+summary: 'math'
 weight: 1
 # tags: ["first", "two"]
 # categories: ["first"]
-author: "MaisJet"
+#author: "MaisJet"
 showToc: true
 TocOpen: false
 hidemeta: false

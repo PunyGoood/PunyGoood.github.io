@@ -1,9 +1,9 @@
 ---
 title: "alpaca设计文档"
-date: 2024-01-20 18:13:52.872 +0800
-summary: 'How to use hugo with the theme "paperMod"'
+#date: 2024-01-20 18:13:52.872 +0800
+summary: 'alpaca'
 weight: 3
-author: "MaisJet"
+#author: "MaisJet"
 showToc: true
 TocOpen: false
 hidemeta: false
